@@ -1,0 +1,5 @@
+#host: localhost
+#port_one: 9200
+#port_two: 9201
+#scheme: http
+#
