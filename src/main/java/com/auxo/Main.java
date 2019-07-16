@@ -212,20 +212,6 @@ public class Main  {
                         break;
                 }
 
-//
-//            Employee employee = new Employee();
-//            employee.setName("Baskar");
-//            employee = insertEmployee(employee);
-//            Employee personFromDB = getEmployeeById(employee.getEid());
-//            System.out.println("the result " + personFromDB);
-//            System.out.println("Changing name to Baskar s...");
-//            employee.setName("Baskar s");
-//            updateEmployeeById(employee.getEid(), employee);
-//            System.out.println("Person updated  --> " + employee);
-//
-//            System.out.println("Deleting baskar s...");
-//            deleteEmployeeById(personFromDB.getEid());
-//            System.out.println("Person Deleted");
 
 
             }
